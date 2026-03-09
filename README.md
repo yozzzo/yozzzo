@@ -41,15 +41,3 @@ AWS / Cloudflare / Docker
     <img src="https://cdn-luma.com/bd661e34ca5c2a394ea6a5364af3d1b1544dfaac7bac74744dd9414e2e4581c1/torinokuchi1_with_background_preview.jpg" width="200" alt="Torinokuchi" />
   </a>
 </p>
-
----
-
-## Drone Footage
-
-*Coming soon — aerial videos on YouTube*
-
-<p>
-  <a href="#"><img src="https://via.placeholder.com/260x146/0d1117/555?text=Coming+Soon" width="260" alt="Drone Video 1" /></a>
-  <a href="#"><img src="https://via.placeholder.com/260x146/0d1117/555?text=Coming+Soon" width="260" alt="Drone Video 2" /></a>
-  <a href="#"><img src="https://via.placeholder.com/260x146/0d1117/555?text=Coming+Soon" width="260" alt="Drone Video 3" /></a>
-</p>
