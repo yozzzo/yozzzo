@@ -6,7 +6,7 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio_&_3D_Gallery-yozzzo.github.io-4f8fff?style=for-the-badge&labelColor=0a0a0a)](https://yozzzo.github.io/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio_&_3D_/_Drone_Gallery-yozzzo.github.io-4f8fff?style=for-the-badge&labelColor=0a0a0a)](https://yozzzo.github.io/)
 
 <br>
 
@@ -33,9 +33,9 @@
 </td>
 <td width="50%">
 
-### 3D Gallery
+### 3D / Drone Gallery
 
-Interactive 3D Gaussian Splatting scenes — Food, Aerial, Sightseeing
+Interactive 3D Gaussian Splatting scenes & Drone footage — Food, Aerial, Sightseeing
 
 **→ [View Gallery](https://yozzzo.github.io/#gallery)**
 
